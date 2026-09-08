@@ -1,4 +1,3 @@
-# veben-cmyk
 <h1 align="center">Hey, I'm Isaac Veben 👋 / Salut, je suis Isaac Veben 👋</h1>
 <h3 align="center">Junior Web Developer — Full-Stack in training</h3>
 <h3 align="center">Développeur Web Junior — Full-Stack en formation</h3>
@@ -17,7 +16,7 @@
   <a href="https://www.instagram.com/jadenisaac_10/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:ciceronvben@gmail.com">
+  <a href="mailto:isaacveben@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -35,24 +34,33 @@
 
 ## 🇬🇧 English
 
-### 🧑‍💻 About me
+###  About me
 
 - 🎓 Currently training as a **Full-Stack Developer (Bac+2)** at **Simplon × Kadea Academy**, Kinshasa (since Jan. 2026)
 - 🌍 Based in Kinshasa / Barumbu, Democratic Republic of the Congo
 - 💬 Passionate about building modern, performant and responsive interfaces
 - 🌱 Continuously learning web development best practices
 - ⚡ Curious, autonomous and creative — I like turning ideas into digital experiences
-- 📫 Reach me at **ciceronvben@gmail.com**
+- 📫 Reach me at **isaacveben@gmail.com**
 
 ### 🛠️ Stack & Tools
 
-**Languages & Frameworks**
+**Front-end**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Databases**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **Tools & Design**
@@ -83,7 +91,7 @@
 
 ## 🇫🇷 Français
 
-### 🧑‍💻 À propos de moi
+###  À propos de moi
 
 - 🎓 Formation **Développeur Fullstack Bac+2** chez **Simplon × Kadea Academy**, Kinshasa (depuis jan. 2026)
 - 🌍 Basé à Kinshasa / Barumbu, République Démocratique du Congo
@@ -94,13 +102,22 @@
 
 ### 🛠️ Stack & Outils
 
-**Langages & Frameworks**
+**Front-end**
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+**Bases de données**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **Outils & Design**
