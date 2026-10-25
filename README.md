@@ -98,7 +98,7 @@
 - 💬 Passionné par la création d'interfaces modernes, performantes et responsives
 - 🌱 En apprentissage continu des meilleures pratiques du développement web
 - ⚡ Curieux, autonome et créatif — j'aime transformer des idées en expériences digitales
-- 📫 Me contacter : **ciceronvben@gmail.com**
+- 📫 Me contacter : **isaacveben@gmail.com**
 
 ### 🛠️ Stack & Outils
 
